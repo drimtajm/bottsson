@@ -17,3 +17,7 @@ Cute (round) two-wheel drive that can be found here: https://www.m.nu/servo-moto
 ### Motor driver
 Adafruits DC motor featherwing:
 https://www.m.nu/esp8266-shields/dc-motor-or-stepper-featherwing-for-all-feather-boards
+
+### Camera options
+#### HD wide angle camera for Raspberry Pi
+#### Raspberry Pi camera v2.1 plus wide angle lens
